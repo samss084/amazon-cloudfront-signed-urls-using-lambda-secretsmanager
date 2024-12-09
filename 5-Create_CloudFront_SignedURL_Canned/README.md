@@ -1,5 +1,5 @@
 ## Step 5: Create CloudFront Signed URL with Canned Policy
-https://raw.githubusercontent.com/octo-org/octo-repo/main/README.md?token=ABC10001
+Reszrict:https://raw.githubusercontent.com/octo-org/octo-repo/main/README.md?token=ABC10001
 In this step you will use **AWS Lambda** to create **Amazon CloudFront Signed URLs** with a **Canned Policy**. Click [here](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-urls.html) for detailed information about canned and custom policies.
 
 ### Create Lambda Function
